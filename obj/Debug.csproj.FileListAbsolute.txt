@@ -1,0 +1,12 @@
+c:\users\bego\documents\visual studio 2015\Projects\CalculadoraSimple\CalculadoraSimple\bin\Debug\CalculadoraSimple.exe.config
+c:\users\bego\documents\visual studio 2015\Projects\CalculadoraSimple\CalculadoraSimple\bin\Debug\CalculadoraSimple.exe
+c:\users\bego\documents\visual studio 2015\Projects\CalculadoraSimple\CalculadoraSimple\bin\Debug\CalculadoraSimple.pdb
+c:\users\bego\documents\visual studio 2015\Projects\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.csprojResolveAssemblyReference.cache
+c:\users\bego\documents\visual studio 2015\Projects\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.exe
+c:\users\bego\documents\visual studio 2015\Projects\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.pdb
+C:\Users\alumnoa\Desktop\Escritorio\C#\CalculadoraSimple\CalculadoraSimple\bin\Debug\CalculadoraSimple.exe.config
+C:\Users\alumnoa\Desktop\Escritorio\C#\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.exe
+C:\Users\alumnoa\Desktop\Escritorio\C#\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.pdb
+C:\Users\alumnoa\Desktop\Escritorio\C#\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.csprojResolveAssemblyReference.cache
+C:\Users\alumnoa\Desktop\Escritorio\C#\CalculadoraSimple\CalculadoraSimple\bin\Debug\CalculadoraSimple.exe
+C:\Users\alumnoa\Desktop\Escritorio\C#\CalculadoraSimple\CalculadoraSimple\bin\Debug\CalculadoraSimple.pdb
